@@ -14,6 +14,18 @@
 
 你至少要有office软件、PDF软件、图片查看器
 
+考虑到兼容性问题，推荐使用Microsoft office 2010以上，
+
+本资料集的所有内容考虑docx、pptx、
+
+## 如果可以的话，希望点个小星星让更多的人看见。
+
+## 我现在在准备2019年12月份的考试，2020年三月份之后会根据本人的考试复习情况进行资料细节调整
+
+考试调整说明
+
+![avater](./img/计算机系2017年考研科目调整的情况.png)
+
 # 列表
 
 ## 0.录取信息
@@ -33,6 +45,18 @@
 ## 3.初试
 
 初试相关的资料（真题、模拟题、PPT、期末考试），包括英语、政治、数学、算法、数据结构、计算机系统基础、计算机网络、操作系统
+
+计算机网络：自顶向下第七版 英文版 配套PPT资料等
+
+http://www-net.cs.umass.edu/kurose-ross-ppt-7e/
+
+https://github.com/HanochShi/Supplements-ComputerNetworking-ATopDownApproach-7th-ed
+
+https://github.com/myk502/Top-Down-Approach
+
+计算机网络：自顶向下 第六版 英文版 配套网络
+
+https://wps.pearsoned.com/ecs_kurose_compnetw_6/216/55463/14198700.cw/index.html
 
 ## 4.复试
 
