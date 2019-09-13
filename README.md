@@ -127,9 +127,13 @@ https://github.com/fool2fish/dragon-book-exercise-answers
 
 # 更新说明
 
-2019-8-13：
+
+
+2019-9-13：
 
 添加GitHub lfs功能，以支持大文件PDF；
+
+合并参考书目文件夹至初试中；
 
 2019-8-29：
 
