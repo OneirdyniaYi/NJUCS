@@ -18,11 +18,9 @@
 
 使用GitHub Desktop 上传到GitHub中，速度平均为3M/s，如果国内GitHub下载不快，可以考虑fork到自己账号下导入码云下载，可以达到2M/s。
 
-你至少要有office软件、PDF软件、图片查看器
+你至少要有office软件、PDF软件
 
-考虑到兼容性问题，推荐使用Microsoft office 2010以上，
-
-本资料集的所有内容考虑docx、pptx格式。
+推荐使用Microsoft office 2019
 
 ## 如果可以的话，希望点个小星星让更多的人看见。
 
@@ -30,9 +28,6 @@
 
 ## 同时也欢迎大家更新新版本的资料
 
-考研结束之后，本仓库的所有资料将只包括PDF、docx、pptx。
-
-推荐使用Microsoft office 2019
 
 考试调整说明
 
