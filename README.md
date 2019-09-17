@@ -38,6 +38,8 @@
 
 ![avater](./img/计算机系2017年考研科目调整的情况.png)
 
+**考虑到题型变化，本仓库只有2013年以后的真题，其中2017年开始是最新版题目发布，推荐重点研究2017年以后的真题**
+
 # 列表
 
 ## 0.录取信息
@@ -64,6 +66,10 @@ https://github.com/myk502/Top-Down-Approach
 
 https://wps.pearsoned.com/ecs_kurose_compnetw_6/216/55463/14198700.cw/index.html
 
+***所谓的数据结构1800题，其实是由机械工业出版社出版的《算法与数据结构 考研试题精析》 陈守孔 胡潇琨 李玲编著。在淘宝可以买到。本仓库中的文档根据内容判断，应该是第二版或者更早的第一版的。***
+
+![avater](./img/算法与数据结构考研试题精析.jpg)
+
 ## 4.复试
 
 复试相关资料，包括英语听力、离散数学、编译原理、上机
@@ -74,15 +80,29 @@ https://wps.pearsoned.com/ecs_kurose_compnetw_6/216/55463/14198700.cw/index.html
 
 ## 初试
 
-《数据结构（用面向对象方法与C++描述）》（第二版），殷人昆等，清华大学出版社；
+1、《数据结构（用面向对象方法与C++描述）》（第二版），殷人昆等，清华大学出版社；
 
-计算机算法——设计与分析导论 (影印版，Computer Algorithms: Introduction to Design and Analysis, 3rd Edition)，Sara Baase, Allen Van Gelder 编著，高等教育出版社 ；
+![avater](./img/数据结构(第2版).jpg)
 
-《操作系统教程（第5版）》，费翔林，骆斌编著，高等教育出版社；
+2、计算机算法——设计与分析导论 (影印版，Computer Algorithms: Introduction to Design and Analysis, 3rd Edition)，Sara Baase, Allen Van Gelder 编著，高等教育出版社 ；
 
-《计算机系统基础》袁春风 编著机械工业出版社 ；
+![avater](./img/计算机算法.jpg)
 
-《计算机网络——自顶向下方法 (6th)》。James F. Kurose, Keith W. Ross编著，机械工业出版社；
+3、操作系统教程（第5版），费翔林，骆斌编著，高等教育出版社；
+
+![avater](./img/操作系统教程.jpg)
+
+4、计算机系统基础，袁春风 编著，机械工业出版社 ；
+
+![avater](./img/计算机系统基础.jpg)
+
+同时，配套的习题册，据说会考到。
+
+![avater](./img/计算机系统基础习题册.jpg)
+
+5、计算机网络——自顶向下方法 (6th)。James F. Kurose, Keith W. Ross编著，机械工业出版社；
+
+![avater](./img/计算机网络.jpg)
 
 ## 复试
 
@@ -131,13 +151,17 @@ https://github.com/fool2fish/dragon-book-exercise-answers
 
 # 参考资料
 
-[1].https://zhuanlan.zhihu.com/p/61487421
 
-【注】看评论有可能是从王道论坛盗来的
 
 # 更新说明
 
+2019-9-18：
 
+更新说明文档；
+
+删除重复的文件；
+
+![avater](./img/20190918文件大小.PNG)
 
 2019-9-13：
 
