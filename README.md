@@ -16,7 +16,7 @@
 
 邮箱：1768478912@qq.com
 
-QQ：1768478912
+QQ：1768478912 （往事深处的少年）
 
 **如果有任何版权或者其他问题，欢迎联系我，我会尽快解决**
 
@@ -24,11 +24,17 @@ QQ：1768478912
 
 ![avater](./img/最新的文件大小.PNG)
 
-使用GitHub Desktop 上传到GitHub中，速度平均为3M/s，如果国内GitHub下载不快，可以考虑fork到自己账号下导入码云下载，可以达到2M/s。
+使用GitHub Desktop 上传到GitHub中，速度平均为3M/s
+
+如果国内GitHub下载不快，可以考虑fork到自己账号下导入码云下载，可以达到2M/s。
+
+也可以考虑直接用git bash下载，设置DNS地址；
+
+没有试过，仅仅是建议。
 
 你至少要有office软件、PDF软件
 
-推荐使用Microsoft office 2019
+推荐使用Microsoft Office 2019
 
 ## 如果可以的话，希望点个小星星让更多的人看见。
 
